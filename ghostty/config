@@ -1,4 +1,5 @@
-theme = Catppuccin Mocha
+theme = TokyoNight Storm
 font-size = 16
 mouse-hide-while-typing = true
 macos-option-as-alt = true
+window-decoration = true
